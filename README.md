@@ -1,6 +1,6 @@
 # react-awemovie-database-
 
-![kuva](https://user-images.githubusercontent.com/56343426/124610758-71684500-de79-11eb-9961-ae2fd2a70538.png)
+![kuva](https://user-images.githubusercontent.com/56343426/124610924-9c529900-de79-11eb-9498-02eddf5b9761.png)
 
 Build with React 
 
