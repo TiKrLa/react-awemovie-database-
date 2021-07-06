@@ -1,12 +1,17 @@
 # react-awemovie-database-
+
+![kuva](https://user-images.githubusercontent.com/56343426/124610758-71684500-de79-11eb-9961-ae2fd2a70538.png)
+
 Build with React 
 
-This project was build with React App during React course. There was two problems, number one problem was how to search movies and number two problem was how to get the details about movie. In this project was purpose to build and see how solutions work. As well API has been used in this project, in addition you find axios, which is a promise-based client
-for node.js and the browser. 
+This project was build with React App during React course. There was two problems, number one problem was how to search movies and number two problem was how to get the details about the selected movie. In this project was purpose to build and see how solutions work. As well API has been used in this project, in addition you find axios, which is a promise-based client for node.js and the browser. 
 
 ## Requirements ## 
 * React App
 * Npm
+-------------------
+## Instructions ## 
+
 
 
 
