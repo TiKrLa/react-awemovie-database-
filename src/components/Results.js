@@ -2,7 +2,6 @@ import React from 'react'
 
 import Result from './Result' 
 
-//to open pop-up 
 function Results ({ results, openPopup }) {
     return (
         //to set this equal to section results as well map through results 

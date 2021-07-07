@@ -1,6 +1,6 @@
 import React from 'react'
 
-//to pass through result, then to display images 
+//displaying images 
 function Result ({ result, openPopup  }) {
     return (
         <div className="result" onClick={() => openPopup(result.imdbID)}>
