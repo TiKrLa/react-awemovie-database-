@@ -4,7 +4,7 @@
 
 ## Build with React ##
 
-This project was build with React App during React course. There were two problems, number one problem was how to search movies and number two problem was how to get the details about the selected movie. In this project was purpose to build and see how solutions work. As well API has been used in this project, in addition you find axios, which is a promise-based client for node.js and the browser. 
+This project was build with React App during React course. There were two problems, number one problem was how to search movies and number two problem was how to get the details about the selected movie. In this project was purpose to build and see how solutions work. As well API has been used in this project, in addition you find axios, which is a promise-based client for node.js and the browser. Why I wanted to work on this project is to learn more about Axios as well about API. During this project I learned how Axios would be a good choice for a large-scale app. 
 
 ## Requirements ## 
 * React App
